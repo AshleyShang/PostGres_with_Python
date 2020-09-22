@@ -1,0 +1,5 @@
+sudo crontab -e
+
+PATH="/usr/local/bin:/usr/bin:/bin"
+
+* * * * * cd /absolute/path/to/ && source .env && env/bin/python load_data.py

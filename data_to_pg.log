@@ -1,0 +1,8 @@
+2020-09-21 22:02:06,556 __main__     INFO     Starting to download data into covid_deaths_2020-09-21.csv
+2020-09-21 22:02:06,789 __main__     INFO     Successfully downloaded data of 6713 rows into covid_deaths_2020-09-21.csv
+2020-09-21 22:02:06,789 __main__     INFO     Starting to load data from covid_deaths_2020-09-21.csv into PostgreSQL table covid_deaths
+2020-09-21 22:02:06,844 __main__     INFO     Successfully loaded file covid_deaths_2020-09-21.csv into table covid_deaths
+2020-09-21 22:06:00,964 __main__     INFO     Starting to download data into covid_deaths_2020-09-21.csv
+2020-09-21 22:06:01,081 __main__     INFO     Successfully downloaded data of 6713 rows into covid_deaths_2020-09-21.csv
+2020-09-21 22:06:01,081 __main__     INFO     Starting to load data from covid_deaths_2020-09-21.csv into PostgreSQL table covid_deaths
+2020-09-21 22:06:01,147 __main__     INFO     Successfully loaded file covid_deaths_2020-09-21.csv into table covid_deaths
